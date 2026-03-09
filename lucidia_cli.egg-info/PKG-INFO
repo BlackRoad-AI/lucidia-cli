@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: lucidia-cli
+Version: 0.7.0
+Summary: Terminal OS for BlackRoad
+Author: Alexa Amundson
+Author-email: alexa@blackroad.io
+Requires-Python: >=3.10
+Requires-Dist: rich>=13.0
+Requires-Dist: textual>=0.40
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

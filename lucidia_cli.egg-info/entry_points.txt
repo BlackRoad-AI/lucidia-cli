@@ -1,0 +1,2 @@
+[console_scripts]
+lucidia = lucidia:main
